@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nathan Habte</h1>
 <h3 align="center">A passionate frontend developer from South Florida!</h3>
 
-- 🔭 I’m currently working on **my Final Project**
+- 🔭 I’m currently working on **CryptoScope**
 
 - 👯 I’m looking to collaborate on **future potential projects**
 
-- 🤝 I’m looking for help with **some frontend material**
+- 🤝 I’m looking for learn more about **SQL**
 
 - 📫 How to reach me **nathan12habte@gmail.com**
 
